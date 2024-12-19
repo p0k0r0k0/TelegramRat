@@ -11,7 +11,7 @@ import pyautogui
 from io import BytesIO
 import requests
 from pathlib import Path
-BOT_TOKEN = '7653102633:AAF8CG8S5M1LJZKpJvTHWuqU5wMUE9wIXx4'
+BOT_TOKEN = ''
 implode = False
 bot = telebot.TeleBot(BOT_TOKEN)
 
